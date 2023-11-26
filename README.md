@@ -15,7 +15,7 @@
   A imagem a seguir apresenta a arquitetura utilizada no projeto.
 </p>
 
-<img src="assets/imgs/Diagrama ETL.png"/>
+<img src="assets/imgs/ETL - Projetos Propostos MySQL.png"/>
 
 <p align="justify">
   Os dados são extraídos da API do SPLEGIS em seguida são realizadas algumas transformações nos dados e por fim estes dados são armazenados em planilhas.
