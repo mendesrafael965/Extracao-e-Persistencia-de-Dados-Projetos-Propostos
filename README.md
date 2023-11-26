@@ -32,7 +32,7 @@ Para o projeto em questão foram utilizados os seguintes endpoints:
   <li><a href="https://splegisws.saopaulo.sp.leg.br/ws/ws2.asmx?op=ProjetosPorAno">Projetos Por Ano</a> Retorna todos os projetos de um determinado ano. Caso a informação de ano não seja fornecida, será considerado o ano corrente.
    Este endpoint foi utilizar para realizar a carga de dados nas tabelas <b>R001TPR</b> (Tipo do projeto) e <b>R001PRO</b> (Projeto).</li>
    
-  <li><a href="https://splegisws.saopaulo.sp.leg.br/ws/ws2.asmx?op=ProjetosAutoresJSON">Projetos Autores</a> Retorna os projetos de um determinado ano com a informação de seus autores e subscritores, se houver. Caso a informação de ano não seja fornecida, será           considerado o ano corrente. Este endpoint foi utilizar para realizar a carga de dados nas tabelas x e y.</li>
+  <li><a href="https://splegisws.saopaulo.sp.leg.br/ws/ws2.asmx?op=ProjetosAutoresJSON">Projetos Autores</a> Retorna os projetos de um determinado ano com a informação de seus autores e subscritores, se houver. Caso a informação de ano não seja fornecida, será           considerado o ano corrente. Este endpoint foi utilizar para realizar a carga de dados na tabela <b>R001VPR</b> (Ligação entre projetos e vereadores).</li>
 </ul>
   A lista completa com todos os endpoints disponível pode ser acessada <a href="https://splegisws.saopaulo.sp.leg.br/ws/ws2.asmx">aqui</a>.
 </p>
