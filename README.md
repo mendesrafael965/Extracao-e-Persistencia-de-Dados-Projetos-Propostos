@@ -1,4 +1,4 @@
-# Extracão de Dados dos Projetos Propostos por Vereadores de São Paulo
+# Extracão de e Persistência Dados dos Projetos Propostos por Vereadores de São Paulo
 <a href="https://mendesrafael965.github.io/Extracao-e-Persistencia-de-Dados-Projetos-Propostos/"> Link para página do projeto</a>
 <h2>Introdução</h2>
 <p align="justify">
@@ -7,7 +7,7 @@
 </p> 
 
 <p align="justify">
-  O presente projeto tem como objetivo realizar a extração e transformações dos dados dos projetos propostos pelos vereadores da Câmara Municipal de São Paulo e também gerar planilhas com estes dados. Isso com intuito de reduzir o tempo de execução bem como a chance de      erro na realização desta tarefa.
+  O presente projeto tem como objetivo realizar a extração, transformações e carga em banco de dados relacional dos dados dos projetos propostos pelos vereadores da Câmara Municipal de São Paulo. Isso com intuito de armazenar os dados com mais segurança e facilitar a recuperação.
 </p>
 
 <h2>Banco de Dados</h2>
