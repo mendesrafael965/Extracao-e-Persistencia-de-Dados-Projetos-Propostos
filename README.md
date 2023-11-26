@@ -11,6 +11,11 @@
 </p>
 
 <h2>Banco de Dados</h2>
+<p align="justify">
+  A figura abaixo apresenta o diagrama Entidade Relacionamento utilizado para modelar o banco de dados (Figura será alterada).
+</p>
+
+<img src="assets/imgs/DER.png"/>
 
 A descrição de cada tabela é apresentada a seguir:
 <ul>
